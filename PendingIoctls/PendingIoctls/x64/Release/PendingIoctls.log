@@ -1,0 +1,19 @@
+﻿  Building 'PendingIoctls' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\PendingIoctls.inf
+  Stamping [Version] section with DriverVer=03/02/2024,18.50.3.979
+C:\Users\dorge\source\repos\PendingIoctls\PendingIoctls\PendingIoctls.inf(28-28): warning 2083: Section [standard.ntamd64] not referenced or used.
+  PendingIoctls.vcxproj -> C:\Users\dorge\source\repos\PendingIoctls\x64\Release\PendingIoctls.sys
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\dorge\source\repos\PendingIoctls\x64\Release\PendingIoctls\pendingioctls.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dorge\source\repos\PendingIoctls\x64\Release\PendingIoctls\pendingioctls.cat
+  
