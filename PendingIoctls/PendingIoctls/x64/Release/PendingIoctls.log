@@ -1,0 +1,32 @@
+﻿  Building 'PendingIoctls' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\PendingIoctls.inf
+  Stamping [Version] section with DriverVer=03/02/2024,18.57.16.75
+C:\Users\dorge\source\repos\PendingIoctls\PendingIoctls\PendingIoctls.inf(28-28): warning 2083: Section [standard.ntamd64] not referenced or used.
+  main.cpp
+C:\Users\dorge\source\repos\PendingIoctls\PendingIoctls\main.cpp(10,57): warning C4459: declaration of 'DeviceObject' hides global declaration
+C:\Users\dorge\source\repos\PendingIoctls\PendingIoctls\main.cpp(5,16): message : see declaration of 'DeviceObject'
+C:\Users\dorge\source\repos\PendingIoctls\PendingIoctls\main.cpp(10,28): warning C4100: 'DeviceObject': unreferenced formal parameter
+C:\Users\dorge\source\repos\PendingIoctls\PendingIoctls\main.cpp(34,45): warning C4459: declaration of 'DeviceObject' hides global declaration
+C:\Users\dorge\source\repos\PendingIoctls\PendingIoctls\main.cpp(5,16): message : see declaration of 'DeviceObject'
+C:\Users\dorge\source\repos\PendingIoctls\PendingIoctls\main.cpp(44,41): warning C4459: declaration of 'DeviceObject' hides global declaration
+C:\Users\dorge\source\repos\PendingIoctls\PendingIoctls\main.cpp(5,16): message : see declaration of 'DeviceObject'
+C:\Users\dorge\source\repos\PendingIoctls\PendingIoctls\main.cpp(53,38): warning C4996: 'ExAllocatePoolWithTag': ExAllocatePoolWithTag is deprecated, use ExAllocatePool2.
+C:\Users\dorge\source\repos\PendingIoctls\PendingIoctls\main.cpp(91): warning C4715: 'IoctlHandler': not all control paths return a value
+  PendingIoctls.vcxproj -> C:\Users\dorge\source\repos\PendingIoctls\x64\Release\PendingIoctls.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dorge\source\repos\PendingIoctls\x64\Release\PendingIoctls.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\dorge\source\repos\PendingIoctls\x64\Release\PendingIoctls\pendingioctls.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dorge\source\repos\PendingIoctls\x64\Release\PendingIoctls\pendingioctls.cat
+  
